@@ -1,1 +1,1 @@
-export const BASE_URL = 'noted-app-react-js.vercel.app/api';
+export const BASE_URL = 'https://noted-app-react-js.vercel.app/api';
